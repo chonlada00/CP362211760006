@@ -10,11 +10,11 @@ public class lab5_2 {
         double r = scan.nextDouble();
 
         double Area = PI * r*r;
-        System.out.println("พื้นที่ผิวของวงกลม: "+ Area);
+        System.out.println("พื้นที่ผิวของกระบอก: "+ Area);
 
 
-        double c = 2* PI *r;
-        System.out.println("เส้นรอบวงกลม: "+c);
+        double h = 2* PI *r;
+        System.out.println(": "+h);
 
 
         double v = (4/3)*PI*r*r*r;
