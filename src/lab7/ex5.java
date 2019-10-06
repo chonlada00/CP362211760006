@@ -2,7 +2,7 @@ package lab7;
 
 import java.util.Scanner;
 
-public class Ex5 {
+public class ex5 {
     public static void main(String[] args) {
         Scanner SC = new Scanner(System.in);
 
